@@ -1,3 +1,6 @@
+# Day 2: Tip Calculator
+# December 24, 2022
+
 print("Welcome to the tip calculator.")
 total_bill = input("What was the total bill? ")
 tip_percentage = input("What percentage tip would you like to give? 10, 12, or 15? ")
