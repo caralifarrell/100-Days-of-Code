@@ -47,4 +47,3 @@ if direction == "left":
         print("You started swimming... but then you attracted some sharks! They ate you! Game Over.")
 else:
     print("You started walking... and you fell in a hole! Game Over.")
-
