@@ -5,5 +5,12 @@
 
 import random
 
-heads_tails = random.choice(['Heads','Tails'])
-print(heads_tails)
+#faster way:
+#heads_tails = random.choice(['Heads','Tails'])
+#print(heads_tails)
+
+heads_tails = random.randint(0,1)
+if heads_tails == 0:
+    print("Tails")
+else:
+    print("Heads")
