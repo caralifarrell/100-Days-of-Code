@@ -1,4 +1,5 @@
 #Password Generator Project
+
 import random
 
 letters = [
@@ -24,7 +25,7 @@ randomised_numbers = random.choices(numbers, k = nr_numbers)
 
 generated_password = randomised_letters + randomised_symbols + randomised_numbers
 ordered = ''.join(generated_password)
-print(ordered)
+print(f"Your non-randomized password (not recommended) is: {ordered}")
 
 #Hard Level - Order of characters randomised:
 #e.g. 4 letter, 2 symbol, 2 number = g^2jk8&P
@@ -34,4 +35,4 @@ import random
 generated_password_randomised = randomised_letters + randomised_symbols + randomised_numbers
 random.shuffle(generated_password_randomised)
 shuffled = ''.join(generated_password_randomised)
-print(shuffled)
+print(f"The randomized version of your password is: {shuffled}")
