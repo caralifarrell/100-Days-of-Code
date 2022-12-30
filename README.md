@@ -35,122 +35,69 @@ Throughout this comprehensive course, we cover a massive amount of tools and tec
 
 - Python 3 - the latest version of Python
 - PyCharm, Jupyter Notebook, Google Colab
-
-Python Scripting and Automation
-
-Python Game Development
-
-Web Scraping
-
-Beautiful Soup
-
-Selenium Web Driver
-
-Request
-
-WTForms
-
-Data Science
-
-Pandas
-
-NumPy
-
-Matplotlib
-
-Plotly
-
-Scikit learn
-
-Seaborn
-
-Turtle
-
-Python GUI Desktop App Development
-
-Tkinter
-
-Front-End Web Development
-
-HTML 5
-
-CSS 3
-
-Bootstrap 4
-
-Bash Command Line
-
-Git, GitHub and Version Control
-
-Backend Web Development
-
-Flask
-
-REST
-
-APIs
-
-Databases
-
-SQL
-
-SQLite
-
-PostgreSQL
-
-Authentication
-
-Web Design
-
-Deployment with GitHub Pages, Heroku and GUnicorn
-
-and much much more!
+- Python Scripting and Automation
+- Python Game Development
+- Web Scraping
+- Beautiful Soup
+- Selenium Web Driver
+- Request
+- WTForms
+- Data Science
+- Pandas
+- NumPy
+- Matplotlib
+- Plotly
+- Scikit learn
+- Seaborn
+- Turtle
+- Python GUI Desktop App Development
+- Tkinter
+- Front-End Web Development
+- HTML 5
+- CSS 3
+- Bootstrap 4
+- Bash Command Line
+- Git, GitHub and Version Control
+- Backend Web Development
+- Flask
+- REST
+- APIs
+- Databases
+- SQL
+- SQLite
+- PostgreSQL
+- Authentication
+- Web Design
+- Deployment with GitHub Pages, Heroku and GUnicorn
+- and much much more!
 
 By the end of this course, you will be fluently programming in Python and you'll be so good at Python that you can get a job or use the language professionally.
 
 You'll also build a portfolio of 100 projects that you can show off to any potential employer. Including:
 
-Blackjack
-
-Snake Game
-
-Pong Game
-
-Auto Swipe on Tinder
-
-Auto Job Applications on LinkedIn
-
-Automate Birthday Emails/SMS
-
-Fully Fledged Blog Website
-
-Build Your Own Public API
-
-Data Science with Google Trends
-
-Analysing Lego Datasets
-
-Google App Store Analysis
-
-and much much more!
+- Blackjack
+- Snake Game
+- Pong Game
+- Auto Swipe on Tinder
+- Auto Job Applications on LinkedIn
+- Automate Birthday Emails/SMS
+- Fully Fledged Blog Website
+- Build Your Own Public API
+- Data Science with Google Trends
+- Analysing Lego Datasets
+- Google App Store Analysis
+- and much much more!
 
 Sign up today, and look forward to:
 
-Video Lectures
-
-Code Challenges and Exercises
-
-Fully Fledged Projects
-
-Quizzes
-
-Programming Resources and Cheatsheets
-
-Downloads
-
-Our best selling 12 Rules to Learn to Code eBook
-
-$12,000+ Python Pro Bootcamp course materials and curriculum
+- Video Lectures
+- Code Challenges and Exercises
+- Fully Fledged Projects
+- Quizzes
+- Programming Resources and Cheatsheets
+- Downloads
+- Our best selling 12 Rules to Learn to Code eBook
+- $12,000+ Python Pro Bootcamp course materials and curriculum
 
 
 
@@ -173,11 +120,11 @@ REMEMBER… I'm so confident that you'll love this course that we're offering a 
 So what are you waiting for? Click the buy now button and join the world's highest-rated development course.
 
 Who this course is for:
-If you want to learn to code from scratch through building fun and useful projects, then take this course.
-If you want to start your own startup by building your own websites and web apps.
-If you are a complete beginner then this course will be everything you need to become a Python professional
-If you are a seasoned programmer wanting to switch to Python then this is the quickest way. Learn through coding projects.
-If you are an intermediate Python programmer then you know 100 days of code challenges will help you level up.
+- If you want to learn to code from scratch through building fun and useful projects, then take this course.
+- If you want to start your own startup by building your own websites and web apps.
+- If you are a complete beginner then this course will be everything you need to become a Python professional
+- If you are a seasoned programmer wanting to switch to Python then this is the quickest way. Learn through coding projects.
+- If you are an intermediate Python programmer then you know 100 days of code challenges will help you level up.
 
 Instructor
 Dr. Angela Yu
@@ -191,7 +138,7 @@ I spend most of my time researching how to make learning to code fun and make ha
 I'll be there for you every step of the way.
 
 Requirements
-No programming experience needed - I'll teach you everything you need to know
-A Mac or PC computer with access to the internet
-No paid software required - I'll teach you how to use PyCharm, Jupyter Notebooks and Google Colab
-I'll walk you through, step-by-step how to get all the software installed and set up
+- No programming experience needed - I'll teach you everything you need to know
+- A Mac or PC computer with access to the internet
+- No paid software required - I'll teach you how to use PyCharm, Jupyter Notebooks and Google Colab
+- I'll walk you through, step-by-step how to get all the software installed and set up
