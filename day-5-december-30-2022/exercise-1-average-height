@@ -4,6 +4,12 @@ for n in range(0, len(student_heights)):
   student_heights[n] = int(student_heights[n])
 # 🚨 Don't change the code above 👆
 
+
 #Write your code below this row 👇
 
-print(round(sum(student_heights)/len(student_heights)))
+count = 0
+heights_added = 0
+for i in student_heights:
+    count += 1
+    heights_added += i
+print(round(heights_added/count))
