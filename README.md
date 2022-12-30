@@ -127,6 +127,7 @@ Who this course is for:
 - If you are an intermediate Python programmer then you know 100 days of code challenges will help you level up.
 
 Instructor
+
 Dr. Angela Yu
 Developer and Lead Instructor
 I'm Angela, I'm a developer with a passion for teaching. I'm the lead instructor at the London App Brewery, London's leading Programming Bootcamp. I've helped hundreds of thousands of students learn to code and change their lives by becoming a developer. I've been invited by companies such as Twitter, Facebook and Google to teach their employees.
