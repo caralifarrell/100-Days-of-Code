@@ -1,0 +1,20 @@
+# Challenge 2
+
+# Hurdle jump
+def jump_hurdle():
+    move()
+    turn_left()
+    move()
+    turn_left()
+    turn_left()
+    turn_left()
+    move()
+    turn_left()
+    turn_left()
+    turn_left()
+    move()
+    turn_left()
+
+# Path
+for hurdle in range(0,6):
+    jump_hurdle()
